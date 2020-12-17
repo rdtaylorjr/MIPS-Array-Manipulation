@@ -6,4 +6,4 @@ Creates, manipulates, and outputs arrays in MIPS Assembly Language
 
 Programming language: MIPS Assembly
 
-Lab 10 for CSC 204 Computer Architecture and Organization
+Oakton CSC 204 Computer Architecture and Organization Lab 10
